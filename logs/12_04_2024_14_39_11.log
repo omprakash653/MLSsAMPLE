@@ -1,0 +1,9 @@
+[2024-12-04 14:39:17,454] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-12-04 14:39:17,456] 96 werkzeug - INFO -  * Debugger PIN: 465-275-813
+[2024-12-04 14:39:36,346] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\__init__.py', reloading
+[2024-12-04 14:39:36,368] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_utils\\__init__.py', reloading
+[2024-12-04 14:39:36,448] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\typing\\__init__.py', reloading
+[2024-12-04 14:39:36,476] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_array_like.py', reloading
+[2024-12-04 14:39:36,496] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py', reloading
+[2024-12-04 14:39:36,530] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dataclasses.py', reloading
+[2024-12-04 14:39:36,601] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pathlib.py', reloading

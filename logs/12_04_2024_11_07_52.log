@@ -1,0 +1,32 @@
+[2024-12-04 11:07:53,802] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-12-04 11:07:53,804] 96 werkzeug - INFO -  * Debugger PIN: 465-275-813
+[2024-12-04 11:08:15,410] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:08:15] "GET / HTTP/1.1" 200 -
+[2024-12-04 11:08:15,758] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:08:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-12-04 11:08:28,813] 71 root - INFO - Dataframe Gathered
+[2024-12-04 11:08:29,127] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:08:29] "POST / HTTP/1.1" 200 -
+[2024-12-04 11:08:31,799] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:08:31] "GET / HTTP/1.1" 200 -
+[2024-12-04 11:10:29,632] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:10:29] "GET / HTTP/1.1" 200 -
+[2024-12-04 11:11:04,170] 71 root - INFO - Dataframe Gathered
+[2024-12-04 11:11:04,201] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:11:04] "POST / HTTP/1.1" 200 -
+[2024-12-04 11:11:06,410] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:11:06] "GET / HTTP/1.1" 200 -
+[2024-12-04 11:11:36,783] 71 root - INFO - Dataframe Gathered
+[2024-12-04 11:11:36,812] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:11:36] "POST / HTTP/1.1" 200 -
+[2024-12-04 11:11:39,059] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:11:39] "GET / HTTP/1.1" 200 -
+[2024-12-04 11:13:10,082] 71 root - INFO - Dataframe Gathered
+[2024-12-04 11:13:10,115] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:13:10] "POST / HTTP/1.1" 200 -
+[2024-12-04 11:13:12,404] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:13:12] "GET / HTTP/1.1" 200 -
+[2024-12-04 11:28:24,828] 71 root - INFO - Dataframe Gathered
+[2024-12-04 11:28:24,963] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:28:24] "POST / HTTP/1.1" 200 -
+[2024-12-04 11:28:28,843] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:28:28] "[33mGET /home HTTP/1.1[0m" 404 -
+[2024-12-04 11:28:51,736] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:28:51] "[33mGET /home HTTP/1.1[0m" 404 -
+[2024-12-04 11:28:53,907] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:28:53] "[33mGET /home HTTP/1.1[0m" 404 -
+[2024-12-04 11:28:58,451] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:28:58] "[33mGET /home HTTP/1.1[0m" 404 -
+[2024-12-04 11:29:11,425] 71 root - INFO - Dataframe Gathered
+[2024-12-04 11:29:11,445] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:29:11] "POST / HTTP/1.1" 200 -
+[2024-12-04 11:29:13,587] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:29:13] "GET / HTTP/1.1" 200 -
+[2024-12-04 11:29:46,527] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\IPython\\display.py', reloading
+[2024-12-04 11:29:46,567] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\IPython\\core\\display_functions.py', reloading
+[2024-12-04 11:29:46,628] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\IPython\\lib\\display.py', reloading
+[2024-12-04 11:29:47,289] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\__init__.py', reloading
+[2024-12-04 11:29:47,307] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_array_like.py', reloading
+[2024-12-04 11:29:47,317] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py', reloading

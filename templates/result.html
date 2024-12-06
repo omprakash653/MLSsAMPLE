@@ -1,1 +1,78 @@
-<h1>price is {{final_result}} $</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diamond Price Result</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #fbc2eb, #a18cd1);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: #333;
+        }
+
+        .result-container {
+            text-align: center;
+            background: rgba(255, 255, 255, 0.9);
+            padding: 30px 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            max-width: 400px;
+        }
+
+        .result-container h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        .home-btn {
+            display: inline-block;
+            text-decoration: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #4CAF50;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+            cursor: pointer;
+        }
+
+        .home-btn:hover {
+            background-color: #45a049;
+        }
+
+        .result-red {
+            color: red;
+        }
+
+        .result-green {
+            color: #4CAF50;
+        }
+
+        .result-blue {
+            color: blue;
+        }
+
+        .result-grey {
+            color: grey;
+        }
+    </style>
+</head>
+<body>
+    <div class="result-container">
+        <h1 class="{% if final_result <= 951 %}result-red
+                    {% elif final_result > 951 and final_result <= 2401 %}result-green
+                    {% elif final_result > 2401 and final_result <= 5408 %}result-blue
+                    {% else %}result-grey{% endif %}">
+            Price is {{ final_result }} $
+        </h1>
+        <a href="/" class="home-btn">Go to Home Page</a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,12 @@
+[2024-12-04 14:39:38,651] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-12-04 14:39:38,652] 96 werkzeug - INFO -  * Debugger PIN: 465-275-813
+[2024-12-04 14:40:38,764] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 14:40:38] "GET / HTTP/1.1" 200 -
+[2024-12-04 14:40:39,376] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 14:40:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-12-04 14:40:53,878] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\OneDrive\\Desktop\\projects\\ml\\MLSsAMPLE\\setup.py', reloading
+[2024-12-04 14:40:53,888] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\OneDrive\\Desktop\\projects\\ml\\MLSsAMPLE\\src\\DimondPricePrediction\\components\\data_ingestion.py', reloading
+[2024-12-04 14:40:53,890] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\OneDrive\\Desktop\\projects\\ml\\MLSsAMPLE\\src\\DimondPricePrediction\\components\\data_transformation.py', reloading
+[2024-12-04 14:40:53,891] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\OneDrive\\Desktop\\projects\\ml\\MLSsAMPLE\\src\\DimondPricePrediction\\components\\model_trainer.py', reloading
+[2024-12-04 14:40:53,892] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\OneDrive\\Desktop\\projects\\ml\\MLSsAMPLE\\src\\DimondPricePrediction\\exception.py', reloading
+[2024-12-04 14:40:53,892] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\OneDrive\\Desktop\\projects\\ml\\MLSsAMPLE\\src\\DimondPricePrediction\\logger.py', reloading
+[2024-12-04 14:40:53,894] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\OneDrive\\Desktop\\projects\\ml\\MLSsAMPLE\\src\\DimondPricePrediction\\pipelines\\prediction_pipeline.py', reloading
+[2024-12-04 14:40:53,895] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\OneDrive\\Desktop\\projects\\ml\\MLSsAMPLE\\src\\DimondPricePrediction\\utils\\utils.py', reloading

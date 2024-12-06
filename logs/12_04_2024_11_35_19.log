@@ -1,0 +1,6 @@
+[2024-12-04 11:35:20,885] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-12-04 11:35:20,889] 96 werkzeug - INFO -  * Debugger PIN: 465-275-813
+[2024-12-04 11:35:38,566] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:35:38] "GET / HTTP/1.1" 200 -
+[2024-12-04 11:35:39,124] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:35:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-12-04 11:35:58,722] 71 root - INFO - Dataframe Gathered
+[2024-12-04 11:35:59,437] 96 werkzeug - INFO - 127.0.0.1 - - [04/Dec/2024 11:35:59] "POST / HTTP/1.1" 200 -
