@@ -1,0 +1,5 @@
+[2024-12-11 14:06:54,245] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-12-11 14:06:54,255] 96 werkzeug - INFO -  * Debugger PIN: 465-275-813
+[2024-12-11 14:07:19,141] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\IPython\\display.py', reloading
+[2024-12-11 14:07:19,208] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\IPython\\core\\display_functions.py', reloading
+[2024-12-11 14:07:19,353] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\IPython\\lib\\display.py', reloading
