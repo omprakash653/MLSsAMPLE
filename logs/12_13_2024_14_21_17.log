@@ -1,0 +1,9 @@
+[2024-12-13 14:21:18,290] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-12-13 14:21:18,292] 96 werkzeug - INFO -  * Debugger PIN: 465-275-813
+[2024-12-13 14:21:22,070] 71 root - INFO - Dataframe Gathered
+[2024-12-13 14:21:22,172] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:21:22] "POST /predict HTTP/1.1" 200 -
+[2024-12-13 14:21:22,248] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:21:22] "[36mGET /static/images/red-icon.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 14:21:38,013] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\OneDrive\\Desktop\\projects\\ml\\MLSsAMPLE\\app.py', reloading
+[2024-12-13 14:21:38,016] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\OneDrive\\Desktop\\projects\\ml\\MLSsAMPLE\\app.py', reloading
+[2024-12-13 14:21:38,020] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\OneDrive\\Desktop\\projects\\ml\\MLSsAMPLE\\app.py', reloading
+[2024-12-13 14:21:38,022] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\OneDrive\\Desktop\\projects\\ml\\MLSsAMPLE\\app.py', reloading

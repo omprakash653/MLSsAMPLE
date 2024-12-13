@@ -9,21 +9,75 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background: linear-gradient(135deg, #fbc2eb, #a18cd1);
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             height: 100vh;
             color: #333;
+            background-color: {{ bg_color }};
         }
 
+        /* Navigation Bar */
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 30px;
+            background-color: rgba(76, 175, 80, 0.9);
+            color: white;
+            width: 100%;
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: 1000;
+        }
+
+        .navbar h1 {
+            margin: 0;
+            font-size: 32px;
+        }
+
+        .navbar ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            gap: 20px;
+        }
+
+        .navbar ul li {
+            display: inline;
+        }
+
+        .navbar ul li a {
+            text-decoration: none;
+            color: white;
+            padding: 12px 20px;
+            font-size: 18px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .navbar ul li a:hover {
+            background-color: #45a049;
+        }
+
+        /* Result Container */
         .result-container {
             text-align: center;
             background: rgba(255, 255, 255, 0.9);
             padding: 30px 20px;
             border-radius: 10px;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-            max-width: 400px;
+            max-width: 600px;
+            margin-top: 100px;
+        }
+
+        .result-image {
+            width: 50px;
+            height: 50px;
+            margin-bottom: 10px;
         }
 
         .result-container h1 {
@@ -47,32 +101,89 @@
             background-color: #45a049;
         }
 
-        .result-red {
-            color: red;
+        /* Category Info Container */
+        .category-info-container {
+            text-align: center;
+            background: rgba(255, 255, 255, 0.9);
+            padding: 30px 20px;
+            margin-top: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            max-width: 600px;
         }
 
-        .result-green {
-            color: #4CAF50;
+        .category-info {
+            font-size: 16px;
+            line-height: 1.5;
+            margin-top: 20px;
         }
 
-        .result-blue {
-            color: blue;
-        }
-
-        .result-grey {
-            color: grey;
+        /* Footer */
+        .footer {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 10px 20px;
+            font-size: 1rem;
+            width: 100%;
+            position: fixed;
+            bottom: 0;
         }
     </style>
 </head>
 <body>
+    <!-- Navigation Bar -->
+    <div class="navbar">
+        <h1>Diamond Price Predictor</h1>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/predict">Predict Price</a></li>
+        </ul>
+    </div>
+
+    <!-- Result Container -->
     <div class="result-container">
-        <h1 class="{% if final_result <= 951 %}result-red
-                    {% elif final_result > 951 and final_result <= 2401 %}result-green
-                    {% elif final_result > 2401 and final_result <= 5408 %}result-blue
-                    {% else %}result-grey{% endif %}">
-            Price is {{ final_result }} $
-        </h1>
+        <img 
+            src="{% if final_result <= 951*83 %}
+                    {{ url_for('static', filename='images/red-icon.jpg') }}
+                 {% elif final_result > 951*83 and final_result <= 2401*83 %}
+                    {{ url_for('static', filename='images/green-icon.jpg') }}
+                 {% elif final_result > 2401*83 and final_result <= 5408*83 %}
+                    {{ url_for('static', filename='images/blue-icon.jpg') }}
+                 {% else %}
+                    {{ url_for('static', filename='images/grey-icon.jpg') }}
+                 {% endif %}" 
+            alt="Result Icon" 
+            class="result-image">
+        
+            <h1>Price is ₹{{ final_result }} INR</h1>
+
+
         <a href="/" class="home-btn">Go to Home Page</a>
+    </div>
+
+    <!-- Category Info Container -->
+    <div class="category-info-container">
+        <div class="category-info">
+            {% if final_result <= 951*83 %}
+                <p><strong>Category: Budget Diamonds</strong></p>
+                <p>This price range typically represents diamonds with lower carat weight, lower quality cuts, or diamonds with noticeable inclusions. While these diamonds may not have the same brilliance or rarity as higher-priced diamonds, they still offer great value for budget-conscious buyers.</p>
+            {% elif final_result > 951*83 and final_result <= 2401*83 %}
+                <p><strong>Category: Mid-Range Diamonds</strong></p>
+                <p>Diamonds in this range are often of better quality, with a balanced mix of carat weight, cut, and clarity. These diamonds offer a great combination of beauty and value and are a popular choice for engagements and other significant events.</p>
+            {% elif final_result > 2401*83 and final_result <= 5408*83 %}
+                <p><strong>Category: Premium Diamonds</strong></p>
+                <p>This price category represents diamonds that are of high quality, with excellent cuts, clarity, and color. These diamonds are often considered rare and are sought after for their superior brilliance and craftsmanship.</p>
+            {% else %}
+                <p><strong>Category: Luxury Diamonds</strong></p>
+                <p>Luxury diamonds are some of the most exquisite and rare gems, often with flawless clarity, exceptional cuts, and stunning color. These diamonds are typically found in high-end jewelry and are valued for their rarity and brilliance. They are a true investment piece.</p>
+            {% endif %}
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+        &copy; 2024 Diamond Price Predictor. All rights reserved.
     </div>
 </body>
 </html>

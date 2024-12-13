@@ -1,0 +1,4 @@
+[2024-12-13 14:10:50,380] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-12-13 14:10:50,383] 96 werkzeug - INFO -  * Debugger PIN: 465-275-813
+[2024-12-13 14:11:55,677] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\blueprints.py', reloading
+[2024-12-13 14:11:55,725] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\config.py', reloading

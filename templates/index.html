@@ -1,2 +1,169 @@
-<h1>Welcome To Data Science Project Session</h1>
-<h2>Let's Learn And Get Jobs</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diamond Price Predictor</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: url('{{ url_for('static', filename='images/background.jpg') }}') no-repeat center center fixed;
+            background-size: cover;
+            color: #333;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        /* Navigation Bar */
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 30px;
+            background-color: rgba(76, 175, 80, 0.9);
+            color: white;
+        }
+
+        .navbar h1 {
+            margin: 0;
+            font-size: 32px;
+        }
+
+        .navbar ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            gap: 20px;
+        }
+
+        .navbar ul li {
+            display: inline;
+        }
+
+        .navbar ul li a {
+            text-decoration: none;
+            color: white;
+            padding: 12px 20px;
+            font-size: 18px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .navbar ul li a:hover {
+            background-color: #45a049;
+        }
+
+        /* Main Content */
+        .main-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 40px 20px;
+            flex: 1;
+            background-color: rgba(255, 255, 255, 0.8);
+            margin: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .main {
+            text-align: center;
+            width: 50%;
+        }
+
+        .main h1 {
+            font-size: 3rem;
+            margin-bottom: 20px;
+        }
+
+        .main p {
+            font-size: 1.2rem;
+            margin-bottom: 30px;
+            line-height: 1.6;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .btn {
+            text-decoration: none;
+            padding: 15px 30px;
+            background-color: #4CAF50;
+            color: white;
+            font-size: 1.2rem;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .btn:hover {
+            background-color: #45a049;
+        }
+
+        /* Image Sections */
+        .image {
+            width: 20%;
+            height: auto;
+        }
+
+        .image img {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+
+        /* Footer */
+        .footer {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 10px 20px;
+            font-size: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <div class="navbar">
+        <h1>Diamond Price Predictor</h1>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/predict">Predict Price</a></li>
+        </ul>
+    </div>
+
+    <!-- Main Content with Images on the Left and Right -->
+    <div class="main-container">
+        <!-- Left Image -->
+        <div class="image">
+            <img src="{{ url_for('static', filename='images/left-image.jpg') }}" alt="Left Image">
+        </div>
+
+        <!-- Content -->
+        <div class="main">
+            <h1>Welcome to the Diamond Price Predictor</h1>
+            <p>
+                Diamonds are one of the most sought-after gemstones in the world, known for their brilliance and rarity.
+                Each diamond is unique, and its value depends on several factors such as carat, cut, color, and clarity.
+            </p>
+            <p>
+                Our Diamond Price Predictor helps you estimate the value of a diamond using advanced machine learning techniques.
+                Simply provide the necessary details about your diamond and get an accurate price prediction.
+            </p>
+            <a href="/predict" class="btn">Predict Diamond Price</a>
+        </div>
+
+        <!-- Right Image -->
+        <div class="image">
+            <img src="{{ url_for('static', filename='images/right-image.jpg') }}" alt="Right Image">
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+        &copy; 2024 Diamond Price Predictor. All rights reserved.
+    </div>
+</body>
+</html>

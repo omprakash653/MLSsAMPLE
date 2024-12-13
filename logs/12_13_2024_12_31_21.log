@@ -1,0 +1,4 @@
+[2024-12-13 12:31:23,202] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-12-13 12:31:23,206] 96 werkzeug - INFO -  * Debugger PIN: 465-275-813
+[2024-12-13 12:31:23,284] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 12:31:23] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-12-13 12:32:32,229] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\OneDrive\\Desktop\\projects\\ml\\MLSsAMPLE\\app.py', reloading

@@ -1,0 +1,18 @@
+[2024-12-12 14:00:35,015] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-12-12 14:00:35,015] 96 werkzeug - INFO -  * Debugger PIN: 465-275-813
+[2024-12-12 14:00:39,895] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 14:00:39] "GET / HTTP/1.1" 200 -
+[2024-12-12 14:00:49,055] 71 root - INFO - Dataframe Gathered
+[2024-12-12 14:00:49,231] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 14:00:49] "POST / HTTP/1.1" 200 -
+[2024-12-12 14:00:49,620] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 14:00:49] "GET /static/images/grey-icon.jpg HTTP/1.1" 200 -
+[2024-12-12 14:01:30,812] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 14:01:30] "GET / HTTP/1.1" 200 -
+[2024-12-12 14:01:41,012] 71 root - INFO - Dataframe Gathered
+[2024-12-12 14:01:41,032] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 14:01:41] "POST / HTTP/1.1" 200 -
+[2024-12-12 14:01:41,075] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 14:01:41] "[36mGET /static/images/grey-icon.jpg HTTP/1.1[0m" 304 -
+[2024-12-12 14:01:44,048] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 14:01:44] "GET / HTTP/1.1" 200 -
+[2024-12-12 14:02:12,164] 71 root - INFO - Dataframe Gathered
+[2024-12-12 14:02:12,181] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 14:02:12] "POST / HTTP/1.1" 200 -
+[2024-12-12 14:02:12,227] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 14:02:12] "GET /static/images/blue-icon.jpg HTTP/1.1" 200 -
+[2024-12-12 14:02:52,109] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 14:02:52] "GET / HTTP/1.1" 200 -
+[2024-12-12 14:04:45,490] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\OneDrive\\Desktop\\projects\\ml\\MLSsAMPLE\\app.py', reloading
+[2024-12-12 14:04:45,490] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\OneDrive\\Desktop\\projects\\ml\\MLSsAMPLE\\app.py', reloading
+[2024-12-12 14:04:45,490] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\OneDrive\\Desktop\\projects\\ml\\MLSsAMPLE\\app.py', reloading

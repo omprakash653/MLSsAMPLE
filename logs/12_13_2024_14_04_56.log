@@ -1,0 +1,15 @@
+[2024-12-13 14:04:57,819] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-12-13 14:04:57,821] 96 werkzeug - INFO -  * Debugger PIN: 465-275-813
+[2024-12-13 14:05:02,175] 71 root - INFO - Dataframe Gathered
+[2024-12-13 14:05:02,380] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:05:02] "POST /predict HTTP/1.1" 200 -
+[2024-12-13 14:05:02,458] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:05:02] "[36mGET /static/images/grey-icon.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 14:05:09,962] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:05:09] "GET /predict HTTP/1.1" 200 -
+[2024-12-13 14:05:10,187] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:05:10] "[36mGET /static/images/left-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 14:05:10,218] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:05:10] "[36mGET /static/images/right-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 14:05:10,305] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:05:10] "[36mGET /static/images/background.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 14:05:17,162] 71 root - INFO - Dataframe Gathered
+[2024-12-13 14:05:17,182] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:05:17] "POST /predict HTTP/1.1" 200 -
+[2024-12-13 14:05:17,212] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:05:17] "[36mGET /static/images/grey-icon.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 14:07:56,016] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\OneDrive\\Desktop\\projects\\ml\\MLSsAMPLE\\app.py', reloading
+[2024-12-13 14:07:56,020] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\OneDrive\\Desktop\\projects\\ml\\MLSsAMPLE\\app.py', reloading
+[2024-12-13 14:07:56,022] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\OneDrive\\Desktop\\projects\\ml\\MLSsAMPLE\\app.py', reloading

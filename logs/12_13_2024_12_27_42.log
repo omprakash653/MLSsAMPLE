@@ -1,0 +1,17 @@
+[2024-12-13 12:27:44,302] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-12-13 12:27:44,307] 96 werkzeug - INFO -  * Debugger PIN: 465-275-813
+[2024-12-13 12:27:47,945] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 12:27:47] "GET / HTTP/1.1" 200 -
+[2024-12-13 12:27:48,274] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 12:27:48] "[36mGET /static/images/left-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 12:27:48,305] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 12:27:48] "[36mGET /static/images/right-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 12:27:48,322] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 12:27:48] "[36mGET /static/images/background.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 12:27:52,723] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 12:27:52] "GET /predict HTTP/1.1" 200 -
+[2024-12-13 12:27:52,958] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 12:27:52] "[36mGET /static/images/left-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 12:27:52,967] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 12:27:52] "[36mGET /static/images/right-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 12:27:53,087] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 12:27:53] "[36mGET /static/images/background.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 12:27:57,049] 71 root - INFO - Dataframe Gathered
+[2024-12-13 12:27:57,524] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 12:27:57] "POST /predict HTTP/1.1" 200 -
+[2024-12-13 12:27:57,573] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 12:27:57] "[36mGET /static/images/green-icon.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 12:29:50,788] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jinja2\\__init__.py', reloading
+[2024-12-13 12:29:50,809] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jinja2\\environment.py', reloading
+[2024-12-13 12:29:51,208] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+[2024-12-13 12:29:51,533] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\OneDrive\\Desktop\\projects\\ml\\MLSsAMPLE\\src\\DimondPricePrediction\\logger.py', reloading

@@ -1,0 +1,21 @@
+[2024-12-12 12:42:06,268] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-12-12 12:42:06,278] 96 werkzeug - INFO -  * Debugger PIN: 465-275-813
+[2024-12-12 12:42:15,303] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:42:15] "GET / HTTP/1.1" 200 -
+[2024-12-12 12:42:23,211] 71 root - INFO - Dataframe Gathered
+[2024-12-12 12:42:23,482] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:42:23] "POST / HTTP/1.1" 200 -
+[2024-12-12 12:42:23,534] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:42:23] "[33mGET /static/images/green-icon.png HTTP/1.1[0m" 404 -
+[2024-12-12 12:45:26,685] 71 root - INFO - Dataframe Gathered
+[2024-12-12 12:45:26,705] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:45:26] "POST / HTTP/1.1" 200 -
+[2024-12-12 12:45:26,746] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:45:26] "[33mGET /static/images/green-icon.png HTTP/1.1[0m" 404 -
+[2024-12-12 12:47:49,608] 71 root - INFO - Dataframe Gathered
+[2024-12-12 12:47:49,661] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:47:49] "POST / HTTP/1.1" 200 -
+[2024-12-12 12:47:49,776] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:47:49] "GET /static/images/green-icon.jpg HTTP/1.1" 200 -
+[2024-12-12 12:49:07,476] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:49:07] "GET / HTTP/1.1" 200 -
+[2024-12-12 12:49:22,831] 71 root - INFO - Dataframe Gathered
+[2024-12-12 12:49:22,870] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:49:22] "POST / HTTP/1.1" 200 -
+[2024-12-12 12:49:23,051] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:49:23] "GET /static/images/red-icon.jpg HTTP/1.1" 200 -
+[2024-12-12 12:50:17,298] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:50:17] "GET / HTTP/1.1" 200 -
+[2024-12-12 13:58:50,950] 71 root - INFO - Dataframe Gathered
+[2024-12-12 13:58:51,216] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 13:58:51] "POST / HTTP/1.1" 200 -
+[2024-12-12 13:58:51,288] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 13:58:51] "[36mGET /static/images/red-icon.jpg HTTP/1.1[0m" 304 -
+[2024-12-12 13:59:02,285] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\flask\\globals.py', reloading

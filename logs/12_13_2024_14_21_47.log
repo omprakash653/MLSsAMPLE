@@ -1,0 +1,25 @@
+[2024-12-13 14:21:48,101] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-12-13 14:21:48,104] 96 werkzeug - INFO -  * Debugger PIN: 465-275-813
+[2024-12-13 14:21:53,836] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:21:53] "GET / HTTP/1.1" 200 -
+[2024-12-13 14:21:54,170] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:21:54] "[36mGET /static/images/left-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 14:21:54,175] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:21:54] "[36mGET /static/images/right-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 14:21:54,182] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:21:54] "[36mGET /static/images/background.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 14:21:57,313] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:21:57] "GET /predict HTTP/1.1" 200 -
+[2024-12-13 14:21:57,622] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:21:57] "[36mGET /static/images/left-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 14:21:57,661] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:21:57] "[36mGET /static/images/right-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 14:21:57,663] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:21:57] "[36mGET /static/images/background.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 14:22:02,285] 71 root - INFO - Dataframe Gathered
+[2024-12-13 14:22:02,641] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:22:02] "POST /predict HTTP/1.1" 200 -
+[2024-12-13 14:22:02,671] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:22:02] "[36mGET /static/images/red-icon.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 14:22:21,533] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:22:21] "GET /predict HTTP/1.1" 200 -
+[2024-12-13 14:22:32,142] 71 root - INFO - Dataframe Gathered
+[2024-12-13 14:22:32,158] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:22:32] "POST /predict HTTP/1.1" 200 -
+[2024-12-13 14:22:32,201] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:22:32] "[36mGET /static/images/green-icon.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 14:22:40,277] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:22:40] "GET /predict HTTP/1.1" 200 -
+[2024-12-13 14:22:45,582] 71 root - INFO - Dataframe Gathered
+[2024-12-13 14:22:45,592] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:22:45] "POST /predict HTTP/1.1" 200 -
+[2024-12-13 14:22:45,640] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:22:45] "[36mGET /static/images/blue-icon.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 14:22:55,732] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:22:55] "GET /predict HTTP/1.1" 200 -
+[2024-12-13 14:23:03,832] 71 root - INFO - Dataframe Gathered
+[2024-12-13 14:23:03,849] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:23:03] "POST /predict HTTP/1.1" 200 -
+[2024-12-13 14:23:03,884] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:23:03] "[36mGET /static/images/grey-icon.jpg HTTP/1.1[0m" 304 -

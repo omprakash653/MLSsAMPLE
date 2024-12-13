@@ -1,0 +1,16 @@
+[2024-12-12 12:31:19,723] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-12-12 12:31:19,723] 96 werkzeug - INFO -  * Debugger PIN: 465-275-813
+[2024-12-12 12:31:19,760] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:31:19] "[33mGET /images/green-icon.png HTTP/1.1[0m" 404 -
+[2024-12-12 12:34:48,157] 71 root - INFO - Dataframe Gathered
+[2024-12-12 12:34:48,500] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:34:48] "POST / HTTP/1.1" 200 -
+[2024-12-12 12:34:48,538] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:34:48] "[33mGET /images/green-icon.png HTTP/1.1[0m" 404 -
+[2024-12-12 12:39:13,247] 71 root - INFO - Dataframe Gathered
+[2024-12-12 12:39:13,385] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:39:13] "POST / HTTP/1.1" 200 -
+[2024-12-12 12:39:13,419] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:39:13] "[33mGET /images/green-icon.Jpg HTTP/1.1[0m" 404 -
+[2024-12-12 12:39:17,927] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:39:17] "GET / HTTP/1.1" 200 -
+[2024-12-12 12:39:20,193] 71 root - INFO - Dataframe Gathered
+[2024-12-12 12:39:20,240] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:39:20] "POST / HTTP/1.1" 200 -
+[2024-12-12 12:39:20,302] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:39:20] "[33mGET /images/green-icon.Jpg HTTP/1.1[0m" 404 -
+[2024-12-12 12:39:26,680] 71 root - INFO - Dataframe Gathered
+[2024-12-12 12:39:26,710] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:39:26] "POST / HTTP/1.1" 200 -
+[2024-12-12 12:39:26,752] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:39:26] "[33mGET /images/green-icon.Jpg HTTP/1.1[0m" 404 -

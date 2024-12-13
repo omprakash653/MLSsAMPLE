@@ -1,0 +1,12 @@
+[2024-12-13 13:59:25,600] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-12-13 13:59:25,623] 96 werkzeug - INFO -  * Debugger PIN: 465-275-813
+[2024-12-13 13:59:30,970] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 13:59:30] "GET / HTTP/1.1" 200 -
+[2024-12-13 13:59:31,564] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 13:59:31] "[36mGET /static/images/left-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 13:59:31,577] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 13:59:31] "[36mGET /static/images/background.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 13:59:31,774] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 13:59:31] "[36mGET /static/images/right-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 13:59:33,568] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 13:59:33] "GET /predict HTTP/1.1" 200 -
+[2024-12-13 13:59:33,775] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 13:59:33] "[36mGET /static/images/left-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 13:59:33,775] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 13:59:33] "[36mGET /static/images/right-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 13:59:33,971] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 13:59:33] "[36mGET /static/images/background.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 13:59:37,499] 71 root - INFO - Dataframe Gathered
+[2024-12-13 13:59:39,949] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sklearn\\base.py', reloading

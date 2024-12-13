@@ -1,0 +1,50 @@
+[2024-12-13 11:22:11,076] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-12-13 11:22:11,076] 96 werkzeug - INFO -  * Debugger PIN: 465-275-813
+[2024-12-13 11:22:11,156] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:22:11] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-12-13 11:22:38,671] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:22:38] "GET /predict HTTP/1.1" 200 -
+[2024-12-13 11:22:38,740] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:22:38] "[36mGET /static/images/left-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:22:38,852] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:22:38] "[36mGET /static/images/right-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:22:39,048] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:22:39] "[36mGET /static/images/background.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:23:11,821] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:23:11] "GET /predict HTTP/1.1" 200 -
+[2024-12-13 11:23:11,874] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:23:11] "[36mGET /static/images/left-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:23:12,047] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:23:12] "[36mGET /static/images/right-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:23:12,177] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:23:12] "[36mGET /static/images/background.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:25:56,882] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:25:56] "GET /predict HTTP/1.1" 200 -
+[2024-12-13 11:25:56,918] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:25:56] "[36mGET /static/images/left-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:25:57,094] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:25:57] "[36mGET /static/images/right-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:25:57,236] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:25:57] "[36mGET /static/images/background.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:26:26,614] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:26:26] "GET /predict HTTP/1.1" 200 -
+[2024-12-13 11:26:26,657] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:26:26] "[36mGET /static/images/left-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:26:26,848] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:26:26] "[36mGET /static/images/right-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:26:26,975] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:26:26] "[36mGET /static/images/background.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:27:32,233] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:27:32] "[36mGET /static/images/right-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:27:49,915] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:27:49] "[36mGET /static/images/left-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:28:12,707] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:28:12] "[36mGET /static/images/right-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:29:42,379] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:29:42] "GET /predict HTTP/1.1" 200 -
+[2024-12-13 11:29:42,418] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:29:42] "[36mGET /static/images/left-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:29:42,641] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:29:42] "GET /static/images/right-image.jpg HTTP/1.1" 200 -
+[2024-12-13 11:29:42,732] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:29:42] "[36mGET /static/images/background.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:29:46,488] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:29:46] "GET /predict HTTP/1.1" 200 -
+[2024-12-13 11:29:46,524] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:29:46] "[36mGET /static/images/left-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:29:46,736] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:29:46] "[36mGET /static/images/right-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:29:46,840] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:29:46] "[36mGET /static/images/background.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:32:51,115] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:32:51] "GET /predict HTTP/1.1" 200 -
+[2024-12-13 11:32:51,159] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:32:51] "[36mGET /static/images/left-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:32:51,298] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:32:51] "[36mGET /static/images/right-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:32:51,488] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:32:51] "[36mGET /static/images/background.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:33:23,174] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:33:23] "GET /predict HTTP/1.1" 200 -
+[2024-12-13 11:33:23,221] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:33:23] "[36mGET /static/images/left-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:33:23,392] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:33:23] "[36mGET /static/images/right-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:33:23,537] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:33:23] "[36mGET /static/images/background.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:34:16,335] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:34:16] "GET /predict HTTP/1.1" 200 -
+[2024-12-13 11:34:16,374] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:34:16] "[36mGET /static/images/left-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:34:16,550] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:34:16] "[36mGET /static/images/right-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:34:16,690] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:34:16] "[36mGET /static/images/background.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:35:29,486] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:35:29] "GET /predict HTTP/1.1" 200 -
+[2024-12-13 11:35:29,528] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:35:29] "[36mGET /static/images/left-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:35:29,744] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:35:29] "[36mGET /static/images/right-image.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:35:29,839] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:35:29] "[36mGET /static/images/background.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 11:35:45,970] 71 root - INFO - Dataframe Gathered
+[2024-12-13 11:35:46,725] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sklearn\\base.py', reloading
+[2024-12-13 11:35:46,878] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:35:46] "POST /predict HTTP/1.1" 200 -
+[2024-12-13 11:35:46,918] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 11:35:46] "[36mGET /static/images/grey-icon.jpg HTTP/1.1[0m" 304 -

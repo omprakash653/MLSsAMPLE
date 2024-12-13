@@ -1,0 +1,11 @@
+[2024-12-13 14:08:12,485] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-12-13 14:08:12,487] 96 werkzeug - INFO -  * Debugger PIN: 465-275-813
+[2024-12-13 14:08:17,462] 71 root - INFO - Dataframe Gathered
+[2024-12-13 14:08:17,687] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:08:17] "POST /predict HTTP/1.1" 200 -
+[2024-12-13 14:08:17,765] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:08:17] "[36mGET /static/images/red-icon.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 14:09:35,501] 71 root - INFO - Dataframe Gathered
+[2024-12-13 14:09:35,555] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:09:35] "POST /predict HTTP/1.1" 200 -
+[2024-12-13 14:09:35,601] 96 werkzeug - INFO - 127.0.0.1 - - [13/Dec/2024 14:09:35] "[36mGET /static/images/red-icon.jpg HTTP/1.1[0m" 304 -
+[2024-12-13 14:10:46,473] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\IPython\\display.py', reloading
+[2024-12-13 14:10:46,509] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\IPython\\core\\display_functions.py', reloading
+[2024-12-13 14:10:46,547] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\IPython\\lib\\display.py', reloading

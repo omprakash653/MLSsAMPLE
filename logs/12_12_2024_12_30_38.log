@@ -1,0 +1,7 @@
+[2024-12-12 12:30:39,763] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-12-12 12:30:39,769] 96 werkzeug - INFO -  * Debugger PIN: 465-275-813
+[2024-12-12 12:31:09,017] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:31:09] "GET / HTTP/1.1" 200 -
+[2024-12-12 12:31:09,330] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:31:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-12-12 12:31:13,665] 71 root - INFO - Dataframe Gathered
+[2024-12-12 12:31:15,097] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\shivo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sklearn\\base.py', reloading
+[2024-12-12 12:31:16,046] 96 werkzeug - INFO - 127.0.0.1 - - [12/Dec/2024 12:31:16] "POST / HTTP/1.1" 200 -
